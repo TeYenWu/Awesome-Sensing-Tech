@@ -9,8 +9,10 @@ The goals of this curation are to:
 
 ### resistive sensing
 ### capacitive sensing
-#### shunt mode
-#### transit mode
+
+| NAME | YEAR |
+| -------- | -------- |
+| Finding Common Ground | https://dl.acm.org/citation.cfm?id=3025808  | 
 
 ### inductive sensing
 ### impedance sensing
