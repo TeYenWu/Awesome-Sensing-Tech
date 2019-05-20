@@ -9,18 +9,28 @@ The goals of this curation are to:
 
 ### resistive sensing
 ### capacitive sensing
+#### shunt mode
+#### transit mode
+
+### inductive sensing
+
+#### BACKGROUND:
+| LDC1614 | http://www.ti.com/product/LDC1614  | 
+| Coil Design | http://www.ti.com/lit/an/snoa930a/snoa930a.pdf|
+
 
 | NAME | YEAR |
 | -------- | -------- |
-| Finding Common Ground | https://dl.acm.org/citation.cfm?id=3025808  | 
+| Indutivo | https://dl.acm.org/citation.cfm?id=3242662  | 
+| Recognizing Handheld Electrical Device | http://www-nishio.ist.osaka-u.ac.jp/~maekawa/paper/maekawa-pervasive2012-coil.pdf |
+ 
 
-### inductive sensing
 ### impedance sensing
 
 | NAME | YEAR |
 | -------- | -------- |
 | EnhancedTouchX | https://dl.acm.org/citation.cfm?id=3300551   | 
- 
+
 
 ## Acoustic ()
 
