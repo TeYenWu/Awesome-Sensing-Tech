@@ -18,7 +18,7 @@ The goals of this curation are to:
 | LDC1614 | http://www.ti.com/product/LDC1614  | 
 | Coil Design | http://www.ti.com/lit/an/snoa930a/snoa930a.pdf|
 
-
+#### HCI Paper:
 | NAME | YEAR |
 | -------- | -------- |
 | Indutivo | https://dl.acm.org/citation.cfm?id=3242662  | 
@@ -48,12 +48,13 @@ mmWave is an extremely valuable sensing technology for detection of objects and 
 | NAME | YEAR |
 | -------- | -------- |
 | Human Body and Millimeter-Wave  | https://arxiv.org/pdf/1503.05944.pdf  | 
+| TI Resource | http://dev.ti.com/tirex/explore/node?node=AJ3V.naK7FG5g7n7bxAw5A__VLyFKFf__LATEST |
 
 ### HCI PAPER
 | NAME | YEAR |
 | -------- | -------- |
+| Soli | https://dl.acm.org/citation.cfm?id=2925953  | 
 | RadarCat | https://dl.acm.org/citation.cfm?id=2984515  | 
-
 
 
 ## Light ()
