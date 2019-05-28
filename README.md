@@ -26,7 +26,7 @@ The goals of this curation are to:
  
 
 ### impedance sensing
-* [EnhancedTouchX] (https://dl.acm.org/citation.cfm?id=3300551)
+* [EnhancedTouchX](https://dl.acm.org/citation.cfm?id=3300551)
 
 
 ## Acoustic ()
