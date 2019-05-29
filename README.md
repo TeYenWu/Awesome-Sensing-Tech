@@ -30,7 +30,10 @@ The goals of this curation are to:
 
 
 ## Acoustic ()
-
+* [ViBand](https://dl.acm.org/citation.cfm?id=2984582)
+* [Hand Activity](https://dl.acm.org/citation.cfm?id=3300568)
+* [Instrumenting and Analyzing Fabrication Activities, Users, and Expertise](https://dl.acm.org/citation.cfm?id=3290605.3300554)
+* [Interferi: Gesture Sensing using On-Body Acoustic Interferometry](https://dl.acm.org/citation.cfm?id=3300506f)
 ## EmWave (frequency below 30G Hz)
 ### BACKGROUND:
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
@@ -41,9 +44,10 @@ The goals of this curation are to:
 * [EM-Comm](https://dl.acm.org/citation.cfm?id=3130984)
 * [MagnifiSense](https://dl.acm.org/citation.cfm?id=2804271)
 * [Humantenna ](https://dl.acm.org/citation.cfm?id=2207676.2208330)
+* [Below the Surface: Unobtrusive Activity Recognition for Work Surfaces using RF-radar sensing](https://dl.acm.org/citation.cfm?id=3172962)
 
 
-## MmWave ()
+## MmWave (frequency between 30G Hz and 300G HZ)
 mmWave is an extremely valuable sensing technology for detection of objects and providing the range, velocity and angle of these objects. It is a contactless-technology which operates in the spectrum between 30GHz and 300GHz. Due to the technology’s use of small wavelengths it can provide sub-mm range accuracy and is able to penetrate certain materials such as plastic, drywall, clothing, and is impervious to environmental conditions such as rain, fog, dust and snow.
 
 ### BACKGROUND
@@ -52,7 +56,11 @@ mmWave is an extremely valuable sensing technology for detection of objects and 
 
 ### HCI PAPER
 * [Soli](https://dl.acm.org/citation.cfm?id=2925953)
+* [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum](https://dl.acm.org/citation.cfm?id=2984565)
 * [RadarCat](https://dl.acm.org/citation.cfm?id=2984515)
+* [Exploring Tangible Interactions with Radar Sensing](https://dl.acm.org/citation.cfm?id=3287078)
+* [DeskWave: Desktop Interactions using Low-cost Microwave Doppler Arrays](https://dl.acm.org/citation.cfm?doid=3027063.3053152)
+* [mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios](https://dl.acm.org/citation.cfm?id=2790113)
 
 
 ## Light ()
