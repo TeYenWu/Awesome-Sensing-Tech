@@ -13,7 +13,7 @@ The goals of this curation are to:
 * [Wall ++](https://dl.acm.org/citation.cfm?id=3173847)
 * [Designing Groundless Body Channel Communication Systems](https://dl.acm.org/citation.cfm?id=3242622)
 * [DiamondTouch: a multi-user touch technology](https://dl.acm.org/citation.cfm?id=502389)
-
+* [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
 ### inductive sensing
 
 #### BACKGROUND:
@@ -33,7 +33,10 @@ The goals of this curation are to:
 * [ViBand](https://dl.acm.org/citation.cfm?id=2984582)
 * [Hand Activity](https://dl.acm.org/citation.cfm?id=3300568)
 * [Instrumenting and Analyzing Fabrication Activities, Users, and Expertise](https://dl.acm.org/citation.cfm?id=3290605.3300554)
+* [Activity Recognition of Assembly Tasks Using Body-Worn Microphones and Accelerometers](https://ieeexplore.ieee.org/document/1677514)
 * [Interferi: Gesture Sensing using On-Body Acoustic Interferometry](https://dl.acm.org/citation.cfm?id=3300506f)
+* [The Magic Carpet: Physical Sensing for Immersive Environments](https://dl.acm.org/citation.cfm?id=1120391)
+* [Sensing foot gestures from the pocket](https://dl.acm.org/citation.cfm?id=1866063)
 ## EmWave (frequency below 30G Hz)
 ### BACKGROUND:
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
@@ -45,7 +48,7 @@ The goals of this curation are to:
 * [MagnifiSense](https://dl.acm.org/citation.cfm?id=2804271)
 * [Humantenna ](https://dl.acm.org/citation.cfm?id=2207676.2208330)
 * [Below the Surface: Unobtrusive Activity Recognition for Work Surfaces using RF-radar sensing](https://dl.acm.org/citation.cfm?id=3172962)
-
+* [Activity recognition with hand-worn magnetic sensors](https://link.springer.com/article/10.1007/s00779-012-0556-8)
 
 ## MmWave (frequency between 30G Hz and 300G HZ)
 mmWave is an extremely valuable sensing technology for detection of objects and providing the range, velocity and angle of these objects. It is a contactless-technology which operates in the spectrum between 30GHz and 300GHz. Due to the technology’s use of small wavelengths it can provide sub-mm range accuracy and is able to penetrate certain materials such as plastic, drywall, clothing, and is impervious to environmental conditions such as rain, fog, dust and snow.
