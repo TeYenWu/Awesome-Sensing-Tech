@@ -67,5 +67,5 @@ mmWave is an extremely valuable sensing technology for detection of objects and 
 * [mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios](https://dl.acm.org/citation.cfm?id=2790113)
 
 
-## Optical ()
+## Optic
 
