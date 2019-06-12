@@ -8,6 +8,8 @@ The goals of this curation are to:
 ## Impedance
 
 ### resistive sensing
+* [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
+
 ### capacitive sensing
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
 * [Wall ++](https://dl.acm.org/citation.cfm?id=3173847)
@@ -37,11 +39,8 @@ The goals of this curation are to:
 * [Interferi: Gesture Sensing using On-Body Acoustic Interferometry](https://dl.acm.org/citation.cfm?id=3300506f)
 * [The Magic Carpet: Physical Sensing for Immersive Environments](https://dl.acm.org/citation.cfm?id=1120391)
 * [Sensing foot gestures from the pocket](https://dl.acm.org/citation.cfm?id=1866063)
-## EmWave (frequency below 30G Hz)
-### BACKGROUND:
+## Radio Wave (frequency below 30G Hz)
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
-
-### HCI PAPER
 * [EM-Sense](https://www.gierad.com/assets/emsense/emsense.pdf)
 * [Wall ++](https://dl.acm.org/citation.cfm?id=3173847)
 * [EM-Comm](https://dl.acm.org/citation.cfm?id=3130984)
@@ -49,6 +48,8 @@ The goals of this curation are to:
 * [Humantenna ](https://dl.acm.org/citation.cfm?id=2207676.2208330)
 * [Below the Surface: Unobtrusive Activity Recognition for Work Surfaces using RF-radar sensing](https://dl.acm.org/citation.cfm?id=3172962)
 * [Activity recognition with hand-worn magnetic sensors](https://link.springer.com/article/10.1007/s00779-012-0556-8)
+* [A Shoe-Embedded RF Sensor for Motion Detection](https://ieeexplore.ieee.org/abstract/document/5711000)
+
 
 ## MmWave (frequency between 30G Hz and 300G HZ)
 mmWave is an extremely valuable sensing technology for detection of objects and providing the range, velocity and angle of these objects. It is a contactless-technology which operates in the spectrum between 30GHz and 300GHz. Due to the technology’s use of small wavelengths it can provide sub-mm range accuracy and is able to penetrate certain materials such as plastic, drywall, clothing, and is impervious to environmental conditions such as rain, fog, dust and snow.
@@ -66,5 +67,5 @@ mmWave is an extremely valuable sensing technology for detection of objects and 
 * [mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios](https://dl.acm.org/citation.cfm?id=2790113)
 
 
-## Light ()
+## Optical ()
 
