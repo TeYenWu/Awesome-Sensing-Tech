@@ -52,6 +52,7 @@ The goals of this curation are to:
 * [A Shoe-Embedded RF Sensor for Motion Detection](https://ieeexplore.ieee.org/abstract/document/5711000)
 * [TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices](https://dl.acm.org/citation.cfm?id=3117830)
 * [Short-Range Radar Based Real-Time Hand Gesture Recognition Using LSTM Encoder](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662554)
+* [MATERIAL IDENTIFICATION USING RF SENSORS AND CONVOLUTIONAL NEURAL NETWORKS](https://ieeexplore.ieee.org/abstract/document/8682296)
 
 ## MmWave (frequency between 30G Hz and 300G HZ)
 mmWave is an extremely valuable sensing technology for detection of objects and providing the range, velocity and angle of these objects. It is a contactless-technology which operates in the spectrum between 30GHz and 300GHz. Due to the technology’s use of small wavelengths it can provide sub-mm range accuracy and is able to penetrate certain materials such as plastic, drywall, clothing, and is impervious to environmental conditions such as rain, fog, dust and snow.
