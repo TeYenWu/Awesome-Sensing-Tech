@@ -69,6 +69,6 @@ mmWave is an extremely valuable sensing technology for detection of objects and 
 * [DeskWave: Desktop Interactions using Low-cost Microwave Doppler Arrays](https://dl.acm.org/citation.cfm?doid=3027063.3053152)
 * [mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios](https://dl.acm.org/citation.cfm?id=2790113)
 * [The Missing Interface: Micro-Gestures on Augmented Objects](https://dl.acm.org/citation.cfm?id=3312986)
-
+* [Reusing 60GHz Radios for Mobile Radar Imaging](https://sites.cs.ucsb.edu/~ravenben/publications/pdf/60gradar-mobicom15.pdf)
 ## Optic
 
