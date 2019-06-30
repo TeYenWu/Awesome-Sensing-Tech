@@ -29,7 +29,10 @@ The goals of this curation are to:
 
 ### impedance sensing
 * [EnhancedTouchX](https://dl.acm.org/citation.cfm?id=3300551)
-
+* [Electrick: Low-Cost Touch Sensing Using Electric Field Tomography](https://dl.acm.org/citation.cfm?id=3025842)
+* [Tomo: Wearable, Low-cost, Electrical Impedance Tomography for Hand Gesture Recognition](https://dl.acm.org/citation.cfm?id=2807480)
+* [Advancing Hand Gesture Recognition with High Resolution Electrical Impedance Tomography](https://dl.acm.org/citation.cfm?id=2984574)
+* [Pulp Nonfiction: Low-Cost Touch Tracking for Paper](https://dl.acm.org/citation.cfm?doid=3173574.3173691)
 
 ## Acoustic ()
 * [ViBand](https://dl.acm.org/citation.cfm?id=2984582)
@@ -71,4 +74,4 @@ mmWave is an extremely valuable sensing technology for detection of objects and 
 * [The Missing Interface: Micro-Gestures on Augmented Objects](https://dl.acm.org/citation.cfm?id=3312986)
 * [Reusing 60GHz Radios for Mobile Radar Imaging](https://sites.cs.ucsb.edu/~ravenben/publications/pdf/60gradar-mobicom15.pdf)
 ## Optic
-
+* [Vibrosight: Long-Range Vibrometry for Smart Environment Sensing](https://dl.acm.org/citation.cfm?id=3242608)
