@@ -4,30 +4,27 @@ The goals of this curation are to:
 * Allow new HCI researchers to quickly understand the existing sensing technology
 * Lower the barrier of prototyping a sensing technology for HCI research 
 
-
-## Impedance
-
-### resistive sensing
+## Resistive Sensing
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
 
-### capacitive sensing
+## Capacitive Sensing
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
 * [Wall ++](https://dl.acm.org/citation.cfm?id=3173847)
 * [Designing Groundless Body Channel Communication Systems](https://dl.acm.org/citation.cfm?id=3242622)
 * [DiamondTouch: a multi-user touch technology](https://dl.acm.org/citation.cfm?id=502389)
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
 
-### inductive sensing
-#### BACKGROUND:
+## Inductive Sensing
+### BACKGROUND:
 * [LDC1614](http://www.ti.com/product/LDC1614)
 * [Coil Design](http://www.ti.com/lit/an/snoa930a/snoa930a.pdf)
 
-#### Paper:
+### Paper:
 * [Indutivo](https://dl.acm.org/citation.cfm?id=3242662)
 * [Recognizing Handheld Electrical Device](http://www-nishio.ist.osaka-u.ac.jp/~maekawa/paper/maekawa-pervasive2012-coil.pdf)
  
 
-### impedance sensing
+## Impedance Sensing
 * [EnhancedTouchX](https://dl.acm.org/citation.cfm?id=3300551)
 * [Electrick: Low-Cost Touch Sensing Using Electric Field Tomography](https://dl.acm.org/citation.cfm?id=3025842)
 * [Tomo: Wearable, Low-cost, Electrical Impedance Tomography for Hand Gesture Recognition](https://dl.acm.org/citation.cfm?id=2807480)
