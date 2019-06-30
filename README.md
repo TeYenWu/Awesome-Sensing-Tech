@@ -1,8 +1,9 @@
 # Awesome-Sensing-Tech
-With increasing interest in new sensing technology, a curated list of the common sensing tech for HCI research is created, by the category of general sensing principles.
-The goals of this curation are to:
-* Allow new HCI researchers to quickly understand the existing sensing technology
-* Lower the barrier of prototyping a sensing technology for HCI research 
+
+With an increasing interest in emerging sensing technology, We created an awesome curation to understand how recent researchers weave sensing technology into user interfaces. 
+Also, we included several background resources and codes to lower the learning barrier for novice researchers.
+This curation is currently categorized by the general sensing principle.
+
 
 ## Resistive Sensing
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
