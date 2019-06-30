@@ -1,6 +1,6 @@
 # Awesome-Sensing-Tech
 
-With an increasing interest in emerging sensing technology, We created an awesome curation to understand how recent researchers weave sensing technology into user interfaces. 
+With an increasing interest in emerging sensing technology, we created an awesome curated list to understand how recent researchers weave sensing technology into user interfaces. 
 Also, we included several background resources and codes to lower the learning barrier for novice researchers.
 This curation is currently categorized by the general sensing principle.
 
