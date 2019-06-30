@@ -18,8 +18,6 @@ The goals of this curation are to:
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
 
 ### inductive sensing
-* [Indutivo: Contact-Based, Object-Driven Interactions with Inductive Sensing](https://dl.acm.org/citation.cfm?id=3242662)
-
 #### BACKGROUND:
 * [LDC1614](http://www.ti.com/product/LDC1614)
 * [Coil Design](http://www.ti.com/lit/an/snoa930a/snoa930a.pdf)
