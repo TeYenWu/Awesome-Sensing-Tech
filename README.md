@@ -54,6 +54,7 @@ This curation is currently categorized by the general sensing principle.
 * [TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices](https://dl.acm.org/citation.cfm?id=3117830)
 * [Short-Range Radar Based Real-Time Hand Gesture Recognition Using LSTM Encoder](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662554)
 * [MATERIAL IDENTIFICATION USING RF SENSORS AND CONVOLUTIONAL NEURAL NETWORKS](https://ieeexplore.ieee.org/abstract/document/8682296)
+* [LiquID: A Wireless Liquid IDentifier](https://dl.acm.org/citation.cfm?id=3210345)
 
 ## MmWave (frequency between 30G Hz and 300G HZ)
 ### BACKGROUND
