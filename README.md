@@ -40,6 +40,8 @@ This curation is currently categorized by the general sensing principle.
 * [Interferi: Gesture Sensing using On-Body Acoustic Interferometry](https://dl.acm.org/citation.cfm?id=3300506f)
 * [The Magic Carpet: Physical Sensing for Immersive Environments](https://dl.acm.org/citation.cfm?id=1120391)
 * [Sensing foot gestures from the pocket](https://dl.acm.org/citation.cfm?id=1866063)
+* [SoundTrak: Continuous 3D Tracking of a Finger Using Active Acoustics](https://dl.acm.org/citation.cfm?id=3090095)
+* [Touch & Activate: Adding interactivity to existing objects using active acoustic sensing](https://dl.acm.org/citation.cfm?id=2501989) 
 
 ## Radio Wave (frequency below 30G Hz)
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
