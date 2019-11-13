@@ -23,7 +23,7 @@ This curation is currently categorized by the general sensing principle.
 ### Paper:
 * [Indutivo](https://dl.acm.org/citation.cfm?id=3242662)
 * [Recognizing Handheld Electrical Device](http://www-nishio.ist.osaka-u.ac.jp/~maekawa/paper/maekawa-pervasive2012-coil.pdf)
- 
+* [Tessutivo: Contextual Interactions on Interactive Fabrics with Inductive Sensing](https://dl.acm.org/citation.cfm?id=3347897)
 
 ## Impedance Sensing
 * [EnhancedTouchX](https://dl.acm.org/citation.cfm?id=3300551)
@@ -40,8 +40,11 @@ This curation is currently categorized by the general sensing principle.
 * [Interferi: Gesture Sensing using On-Body Acoustic Interferometry](https://dl.acm.org/citation.cfm?id=3300506f)
 * [The Magic Carpet: Physical Sensing for Immersive Environments](https://dl.acm.org/citation.cfm?id=1120391)
 * [Sensing foot gestures from the pocket](https://dl.acm.org/citation.cfm?id=1866063)
+* [FingerPing: Recognizing Fine-grained Hand Poses using Active Acoustic On-body Sensing](https://dl.acm.org/citation.cfm?doid=3173574.3174011)
+* [The sound of one hand: a wrist-mounted bio-acoustic fingertip gesture interface](https://dl.acm.org/citation.cfm?id=506566)
 * [SoundTrak: Continuous 3D Tracking of a Finger Using Active Acoustics](https://dl.acm.org/citation.cfm?id=3090095)
 * [Touch & Activate: Adding interactivity to existing objects using active acoustic sensing](https://dl.acm.org/citation.cfm?id=2501989) 
+* [Scratch input: creating large, inexpensive, unpowered and mobile finger input surfaces](https://dl.acm.org/citation.cfm?id=1449747)
 
 ## Radio Wave (frequency below 30G Hz)
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
@@ -74,3 +77,6 @@ This curation is currently categorized by the general sensing principle.
 * [Reusing 60GHz Radios for Mobile Radar Imaging](https://sites.cs.ucsb.edu/~ravenben/publications/pdf/60gradar-mobicom15.pdf)
 ## Optic
 * [Vibrosight: Long-Range Vibrometry for Smart Environment Sensing](https://dl.acm.org/citation.cfm?id=3242608)
+
+## Other
+* [Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing](https://dl.acm.org/citation.cfm?id=3347952)
