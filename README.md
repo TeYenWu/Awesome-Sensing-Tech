@@ -4,12 +4,10 @@ Also, we included several background resources and codes to lower the learning b
 This curation is currently categorized by the general sensing principle.
 
 ## Resistive Sensing
-Resistive sensing is to detect the resistance change induced by the change in material, length or areas of conductor, usually implemented with a voltage divider or Wheatstone bridge. The common sensors are force sensor, strain gauge, ambient light sensor, and resistive touch screen.
+Resistive sensing is to detect the resistance change caused by the change in length, area, or material of conductors, usually implemented with a voltage divider or Wheatstone bridge. The common sensors include force sensor, strain gauge, ambient light sensor, resistive touch screen and etc.
 * [RESi: A Highly Flexible, Pressure-Sensitive, Imperceptible Textile Interface Based on Resistive Yarns](https://dl.acm.org/citation.cfm?id=3242664)
 * [BackHand: Sensing Hand Gestures via Back of the Hand](https://dl.acm.org/citation.cfm?id=2807462)
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
-
-
 
 ## Capacitive Sensing
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
@@ -19,6 +17,7 @@ Resistive sensing is to detect the resistance change induced by the change in ma
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
 
 ## Inductive Sensing
+
 ### BACKGROUND:
 * [LDC1614](http://www.ti.com/product/LDC1614)
 * [Coil Design](http://www.ti.com/lit/an/snoa930a/snoa930a.pdf)
