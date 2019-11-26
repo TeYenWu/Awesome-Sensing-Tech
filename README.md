@@ -1,12 +1,15 @@
 # Awesome-Sensing-Tech
-
 With an increasing interest in emerging sensing technology, we created an awesome curated list to understand how recent researchers weave sensing technology into user interfaces. 
-Also, we included several background resources and codes to lower the learning barrier for novice researchers.
+Also, we included several background resources and codes to lower the learning barrier for research beginners.
 This curation is currently categorized by the general sensing principle.
 
-
 ## Resistive Sensing
+Resistive sensing is to detect the resistance change induced by the change in material, length or areas of conductor, usually implemented with a voltage divider or Wheatstone bridge. The common sensors are force sensor, strain gauge, ambient light sensor, and resistive touch screen.
+* [RESi: A Highly Flexible, Pressure-Sensitive, Imperceptible Textile Interface Based on Resistive Yarns](https://dl.acm.org/citation.cfm?id=3242664)
+* [BackHand: Sensing Hand Gestures via Back of the Hand](https://dl.acm.org/citation.cfm?id=2807462)
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
+
+
 
 ## Capacitive Sensing
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
