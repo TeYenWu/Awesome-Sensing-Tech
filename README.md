@@ -10,8 +10,10 @@ Resistive sensing is to detect the resistance change caused by the change in len
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
 
 ## Capacitive Sensing
+Capacitive sensing is basically to detect the change in electrical field between two conductors, which could be triggered by the approach of a new conductor (e.g. human body), the variance in dielectrics among the conductors, or the distance change between the conductors. Its implementation is usually with a RC circuit or a LC tank. It can be used to sense the proximity, pressure, position, force, humidity, fluid level, and gestures. 
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
 * [Wall ++](https://dl.acm.org/citation.cfm?id=3173847)
+* [Touché: enhancing touch interaction on humans, screens, liquids, and everyday objects](https://dl.acm.org/citation.cfm?id=2207743)
 * [Designing Groundless Body Channel Communication Systems](https://dl.acm.org/citation.cfm?id=3242622)
 * [DiamondTouch: a multi-user touch technology](https://dl.acm.org/citation.cfm?id=502389)
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
