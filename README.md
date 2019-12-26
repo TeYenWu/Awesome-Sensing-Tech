@@ -10,16 +10,24 @@ Resistive sensing is to detect the resistance change caused by the change in len
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
 
 ## Capacitive Sensing
-Capacitive sensing is basically to detect the change in electrical field between two conductors, which could be triggered by the approach of a new conductor (e.g. human body), the variance in dielectrics among the conductors, or the distance change between the conductors. Its implementation is usually with a RC circuit or a LC tank. It can be used to sense the proximity, pressure, position, force, humidity, fluid level, and gestures. 
+Capacitive sensing basically detects the change in electrical field between two conductors, which could be triggered by the approach of a new conductor (e.g. human body), the variance in dielectrics among the conductors, or the distance change between the conductors. Its implementation is usually with a RC circuit or a LC tank. It can be used to sense the hand gestures, proximity, pressure, position, force, humidity, and fluid level. 
+### BACKGROUND:
+* [AN0040](https://www.silabs.com/documents/public/application-notes/AN0040.pdf)
+* [FDC2214](http://www.ti.com/lit/ds/symlink/fdc2214.pdf)
+* [Shielding](http://www.ti.com/lit/ds/symlink/fdc2214.pdf)
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
+
+### Paper:
 * [Wall ++](https://dl.acm.org/citation.cfm?id=3173847)
 * [Touché: enhancing touch interaction on humans, screens, liquids, and everyday objects](https://dl.acm.org/citation.cfm?id=2207743)
 * [Designing Groundless Body Channel Communication Systems](https://dl.acm.org/citation.cfm?id=3242622)
 * [DiamondTouch: a multi-user touch technology](https://dl.acm.org/citation.cfm?id=502389)
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
+* [Design and Modeling of a Textile Pressure Sensor for Sitting Posture Classification](https://ieeexplore.ieee.org/document/5471696)
+
 
 ## Inductive Sensing
-
+Inductive sensing is based on the principle of magnetic induction to detect nearby metallic objects. It is usually implemented by a coil, which acts as an inductor to generate a high frequency magnetic field. If there is a metal object near the changing magnetic field, current will flow in the object an form a new magnetic field that opposes the original magnetic field. The net effect would cause the change in the inductance of the coil, resulting in the change of the resonant frequnecy in the LC tank. The technology enables precise measurement of linear and angular position, displacement, motion, compression, vibration, and metal composition.
 ### BACKGROUND:
 * [LDC1614](http://www.ti.com/product/LDC1614)
 * [Coil Design](http://www.ti.com/lit/an/snoa930a/snoa930a.pdf)
