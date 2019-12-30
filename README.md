@@ -24,7 +24,9 @@ Capacitive sensing basically detects the change in electrical field between two 
 * [DiamondTouch: a multi-user touch technology](https://dl.acm.org/citation.cfm?id=502389)
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
 * [Design and Modeling of a Textile Pressure Sensor for Sitting Posture Classification](https://ieeexplore.ieee.org/document/5471696)
-
+* [PocketTouch: Through-Fabric Capacitive Touch Input](https://dl.acm.org/doi/abs/10.1145/2047196.2047235)
+* [Design and Modeling of a Textile Pressure Sensor for Sitting Posture Classification](https://ieeexplore.ieee.org/document/5471696)
+* [Gait analysis for fall prediction using hierarchical textile-based capacitive sensor arrays](https://dl.acm.org/doi/10.1145/2954003)
 
 ## Inductive Sensing
 Inductive sensing is based on the principle of magnetic induction to detect nearby metallic objects. It is usually implemented by a coil, which acts as an inductor to generate a high frequency magnetic field. If there is a metal object near the changing magnetic field, current will flow in the object an form a new magnetic field that opposes the original magnetic field. The net effect would cause the change in the inductance of the coil, resulting in the change of the resonant frequnecy in the LC tank. The technology enables precise measurement of linear and angular position, displacement, motion, compression, vibration, and metal composition.
@@ -43,6 +45,7 @@ Inductive sensing is based on the principle of magnetic induction to detect near
 * [Tomo: Wearable, Low-cost, Electrical Impedance Tomography for Hand Gesture Recognition](https://dl.acm.org/citation.cfm?id=2807480)
 * [Advancing Hand Gesture Recognition with High Resolution Electrical Impedance Tomography](https://dl.acm.org/citation.cfm?id=2984574)
 * [Pulp Nonfiction: Low-Cost Touch Tracking for Paper](https://dl.acm.org/citation.cfm?doid=3173574.3173691)
+* [Zensei: Embedded, Multi-electrode Bioimpedance Sensing for Implicit, Ubiquitous User Recognition](https://dl.acm.org/doi/10.1145/3025453.3025536)
 
 ## Acoustic
 * [ViBand](https://dl.acm.org/citation.cfm?id=2984582)
@@ -57,6 +60,7 @@ Inductive sensing is based on the principle of magnetic induction to detect near
 * [SoundTrak: Continuous 3D Tracking of a Finger Using Active Acoustics](https://dl.acm.org/citation.cfm?id=3090095)
 * [Touch & Activate: Adding interactivity to existing objects using active acoustic sensing](https://dl.acm.org/citation.cfm?id=2501989) 
 * [Scratch input: creating large, inexpensive, unpowered and mobile finger input surfaces](https://dl.acm.org/citation.cfm?id=1449747)
+* [Exploring Design Factors for Transforming Passive Vibration Signals into Smartwear Interactions](https://dl.acm.org/doi/10.1145/2971485.2971558)
 
 ## Radio Wave (frequency below 30G Hz)
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
@@ -90,5 +94,6 @@ Inductive sensing is based on the principle of magnetic induction to detect near
 ## Optic
 * [Vibrosight: Long-Range Vibrometry for Smart Environment Sensing](https://dl.acm.org/citation.cfm?id=3242608)
 
-## Other
+## Sensor Fusion
 * [Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing](https://dl.acm.org/citation.cfm?id=3347952)
+* [Phoneprioception: enabling mobile phones to infer where they are kept](https://dl.acm.org/doi/10.1145/2470654.2481296)
