@@ -62,6 +62,7 @@ Inductive sensing is based on the principle of magnetic induction to detect near
 * [Touch & Activate: Adding interactivity to existing objects using active acoustic sensing](https://dl.acm.org/citation.cfm?id=2501989) 
 * [Scratch input: creating large, inexpensive, unpowered and mobile finger input surfaces](https://dl.acm.org/citation.cfm?id=1449747)
 * [Exploring Design Factors for Transforming Passive Vibration Signals into Smartwear Interactions](https://dl.acm.org/doi/10.1145/2971485.2971558)
+* [VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications](https://dl.acm.org/doi/10.1145/3290605.3300906)
 
 ## Radio Wave (frequency below 30G Hz)
 * [Hantenna](https://ieeexplore.ieee.org/document/8334026)
