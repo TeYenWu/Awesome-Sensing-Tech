@@ -10,7 +10,7 @@ Resistive sensing is to detect the resistance change caused by the change in len
 * [A pressure sensing floor for interactive media applications](https://dl.acm.org/citation.cfm?id=1178526)
 
 ## Capacitive Sensing
-Capacitive sensing basically detects the change in electrical field between two conductors, which could be triggered by the approach of a new conductor (e.g. human body), the variance in dielectrics among the conductors, or the distance change between the conductors. Its implementation is usually with a RC circuit or a LC tank. It can be used to sense the hand gestures, proximity, pressure, position, force, humidity, and fluid level. 
+Capacitive sensing basically detects the charge change stored in two conductors, which could be triggered by the change of electrical field, the approach of a new conductor (e.g. human body), the variance in dielectrics among the conductors, or the distance change between the conductors. Its implementation is usually with a RC circuit or a LC tank. It can be used to sense the hand gestures, proximity, pressure, position, force, humidity, and fluid level. 
 ### BACKGROUND:
 * [AN0040](https://www.silabs.com/documents/public/application-notes/AN0040.pdf)
 * [FDC2214](http://www.ti.com/lit/ds/symlink/fdc2214.pdf)
