@@ -14,7 +14,7 @@ Capacitive sensing basically detects the charge change stored in two conductors,
 ### BACKGROUND:
 * [AN0040](https://www.silabs.com/documents/public/application-notes/AN0040.pdf)
 * [FDC2214](http://www.ti.com/lit/ds/symlink/fdc2214.pdf)
-* [Shielding](http://www.ti.com/lit/ds/symlink/fdc2214.pdf)
+* [Shielding](http://www.ti.com/lit/an/snoa926a/snoa926a.pdf)
 * [Finding Common Ground](https://dl.acm.org/citation.cfm?id=3025808)
 * [Capacitive Sensor:Deplacement, Humidity, Force](https://www.researchgate.net/profile/Halit_Eren/publication/309291064_Capacitive_Sensors_Displacement_Humidity_and_Force/links/580866d908ae5ed04bfe84d8/Capacitive-Sensors-Displacement-Humidity-and-Force.pdf) 
 
