@@ -24,10 +24,15 @@ Capacitive sensing basically detects the charge change stored in two conductors,
 * [Designing Groundless Body Channel Communication Systems](https://dl.acm.org/citation.cfm?id=3242622)
 * [DiamondTouch: a multi-user touch technology](https://dl.acm.org/citation.cfm?id=502389)
 * [CapSoles: who is walking on what kind of floor?](https://dl.acm.org/citation.cfm?id=3098279.3098545)
-* [Design and Modeling of a Textile Pressure Sensor for Sitting Posture Classification](https://ieeexplore.ieee.org/document/5471696)
 * [PocketTouch: Through-Fabric Capacitive Touch Input](https://dl.acm.org/doi/abs/10.1145/2047196.2047235)
-* [Design and Modeling of a Textile Pressure Sensor for Sitting Posture Classification](https://ieeexplore.ieee.org/document/5471696)
+* [Project Zanzibar: A Portable and Flexible Tangible Interaction Platform](https://dl.acm.org/doi/abs/10.1145/3173574.3174089)
+* [GhostID: Enabling Non-Persistent User Differentiation in Frequency-Division Capacitive Multi-Touch Sensors](https://dl.acm.org/doi/10.1145/3025453.3025719)
+* [High rate, low-latency multi-touch sensing with simultaneous orthogonal multiplexing](https://dl.acm.org/doi/10.1145/2642918.2647353)
 * [Gait analysis for fall prediction using hierarchical textile-based capacitive sensor arrays](https://dl.acm.org/doi/10.1145/2954003)
+* [FlexTouch: Enabling Large-Scale Interaction Sensing Beyond Touchscreens Using Flexible and Conductive Materials](https://dl.acm.org/doi/10.1145/3351267)
+* [Deformation Capture via Self-Sensing Capacitive Arrays](https://dl.acm.org/doi/10.1145/3311972)
+* [Capacitive near-field communication for ubiquitous interaction and perception](https://dl.acm.org/doi/10.1145/2632048.2632053)
+* [Bodyprint: Biometric User Identification on Mobile Devices Using the Capacitive Touchscreen to Scan Body Parts](https://dl.acm.org/doi/10.1145/2702123.2702518)
 
 ## Inductive Sensing
 Inductive sensing is based on the principle of magnetic induction to detect nearby metallic objects. It is usually implemented by a coil, which acts as an inductor to generate a high frequency magnetic field. If there is a metal object near the changing magnetic field, current will flow in the object an form a new magnetic field that opposes the original magnetic field. The net effect would cause the change in the inductance of the coil, resulting in the change of the resonant frequnecy in the LC tank. The technology enables precise measurement of linear and angular position, displacement, motion, compression, vibration, and metal composition.
