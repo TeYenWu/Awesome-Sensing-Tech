@@ -46,6 +46,8 @@ Inductive sensing is based on the principle of magnetic induction to detect near
 * [Tessutivo: Contextual Interactions on Interactive Fabrics with Inductive Sensing](https://dl.acm.org/citation.cfm?id=3347897)
 
 ## Impedance Sensing
+Impedance is the measure of the opposition that a circuit presents to a current when a voltage is applied. Impedance sensing is based on the fact that a grounded object, such as human body, will shunt some current to ground when it encounters an electric field through capacitive coupling. It is usually implemented by adding a relatively small AC current between a pair of electrodes, creating an electric field in the conductive medium. When a grounded object influenced the electric field, the impedance between the pair of electrode will change accordingly.
+
 * [EnhancedTouchX](https://dl.acm.org/citation.cfm?id=3300551)
 * [Electrick: Low-Cost Touch Sensing Using Electric Field Tomography](https://dl.acm.org/citation.cfm?id=3025842)
 * [Tomo: Wearable, Low-cost, Electrical Impedance Tomography for Hand Gesture Recognition](https://dl.acm.org/citation.cfm?id=2807480)
