@@ -35,7 +35,8 @@ Capacitive sensing basically detects the charge change stored in two conductors,
 * [Bodyprint: Biometric User Identification on Mobile Devices Using the Capacitive Touchscreen to Scan Body Parts](https://dl.acm.org/doi/10.1145/2702123.2702518)
 
 ## Inductive Sensing
-Inductive sensing is based on the principle of magnetic induction to detect nearby metallic objects. It is usually implemented by a coil, which acts as an inductor to generate a high frequency magnetic field. If there is a metal object near the changing magnetic field, current will flow in the object an form a new magnetic field that opposes the original magnetic field. The net effect would cause the change in the inductance of the coil, resulting in the change of the resonant frequnecy in the LC tank. The technology enables precise measurement of linear and angular position, displacement, motion, compression, vibration, and metal composition.
+Inductive sensing is based on the principle of magnetic induction to detect nearby metallic objects. It is usually implemented by a coil, which acts as an inductor to generate a high frequency magnetic field. If there is a metal object near the changing magnetic field, current will flow in the object an form a new magnetic field that opposes the original magnetic field. The net effect would cause the change in the inductance of the coil, resulting in the change of the resonant frequency in the LC tank. The technology enables precise measurement of linear and angular position, displacement, motion, compression, vibration, and metal composition.
+
 ### BACKGROUND:
 * [LDC1614](http://www.ti.com/product/LDC1614)
 * [Coil Design](http://www.ti.com/lit/an/snoa930a/snoa930a.pdf)
@@ -54,6 +55,7 @@ Impedance is the measure of the opposition that a circuit presents to a current 
 * [Advancing Hand Gesture Recognition with High Resolution Electrical Impedance Tomography](https://dl.acm.org/citation.cfm?id=2984574)
 * [Pulp Nonfiction: Low-Cost Touch Tracking for Paper](https://dl.acm.org/citation.cfm?doid=3173574.3173691)
 * [Zensei: Embedded, Multi-electrode Bioimpedance Sensing for Implicit, Ubiquitous User Recognition](https://dl.acm.org/doi/10.1145/3025453.3025536)
+
 
 ## Acoustic
 * [ViBand](https://dl.acm.org/citation.cfm?id=2984582)
